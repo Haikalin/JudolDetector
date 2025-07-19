@@ -2,7 +2,16 @@
 Task Seleksi IRK Created by Haikal
 
 ## 💡 Latar Belakang
-Saat ini, judi online menjadi masalah di Indonesia, bahkan cara promosinya beragam, dimulai dari donate streamer, backlink dari website ilegal, hingga kolom komentar youtube, kali ini kita akan mendeteksi kolom komentar video Youtube yang terdeteksi judi online menggunakan Youtube API algoritma string matching yang sudah dipelajari.
+Saat ini, judi online menjadi masalah di Indonesia, bahkan cara promosinya beragam, dimulai dari donate streamer, backlink dari website ilegal, hingga kolom komentar youtube, kali ini kita akan mendeteksi kolom komentar video Youtube yang terdeteksi judi online menggunakan Youtube API dan algoritma string matching yang sudah dipelajari.
+
+<div align="center">
+  <img src="img/ketua.jpg" alt="Ketua" style="height: 200px; margin: 10px; object-fit: cover;">
+  <img src="img/wakil.jpg" alt="Wakil" style="height: 200px; margin: 10px; object-fit: cover;">
+</div>
+<div align="center">
+  <strong>Note: </strong>Gambar di atas hanya pemanis
+</div>
+
 
 ## 🎯 Spesifikasi
 ### Fitur Wajib (1500 poin)
@@ -15,7 +24,7 @@ Saat ini, judi online menjadi masalah di Indonesia, bahkan cara promosinya berag
 
 ### Fitur Bonus (1000 poin)
 1. Insert dan delete komentar di channel youtube sendiri, pengguna dapat menambahkan banyak komentar dalam bentuk file txt yang dipisahkan oleh semicolon (;), dan untuk delete komentar, hanya komentar mengandung judi online saja yang dihapus,  <strong>Note: </strong>Delete hanya bisa digunakan di akun sendiri, jadi upload video terlebih dahulu.
-2. Normalisasi font selain 5 font yang telah menjadi fitur wajib, gunakan [Referensi font unicode](https://www.textconverter.net/) sebagai referensi.
+2. Normalisasi font selain 5 font yang telah menjadi fitur wajib, gunakan [Referensi font unicode](https://www.textconverter.net/).
 3. Melakukan deployment pada frontend dan backend.
 
 ## 📂 Pengerjaan dan Pengumpulan
